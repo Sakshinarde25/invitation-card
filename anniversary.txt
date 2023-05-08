@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>INVITATION CARD</title>
+<style>
+body {background-color: powderblue;}
+h1 {color: violet;}
+h2{color: red;}
+p {color: green;}
+</style>
+<body align="center">
+<h1 style="font-family:script MT;"> ANNIVERSARY PARTY</h2><br>
+<h1> RAM and LATA <h1>
+<p>"HAPPY ANNIVERSARY! here's too many more incredible years of joy, happiness nd laughter."</p><br>
+<h2> SATURDAY, MAY 6TH, 2023
+<br>
+7th 'o'CLOCK IN THE EVENING 
+<br>
+2254 ROYAL 5STAR HOTEL
+<br>
+Address: 256 manish nagar hingna road nagpur 
+<br>
+</body>
+</html>
